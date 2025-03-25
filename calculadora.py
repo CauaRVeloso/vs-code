@@ -26,7 +26,7 @@ def main():
     peso = float(input("Digite seu peso (kg): "))
     altura = float(input("Digite sua altura (m): "))
     idade = int(input("Digite sua idade: "))
-    sexo = input("Digite seu sexo (masculino/feminino): ")
+    sexo = input("Digite seu gênero (masculino/feminino): ")
     nivel_atividade = input(
         "Digite seu nível de atividade (sedentario, levemente ativo, moderadamente ativo, muito ativo, extremamente ativo): ")
 
